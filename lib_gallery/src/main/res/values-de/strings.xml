@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Nächster</string>
+	<string name="inform_small_image">Unterstützt dieses Bild nicht</string>
+	<string name="all">Alle</string>
+	<string name="collage">Collage</string>
+	<string name="non_pick_imgae">Du hast nicht genug Bild ausgewählt!</string>
+</resources>

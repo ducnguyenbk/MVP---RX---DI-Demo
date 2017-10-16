@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Pròxim</string>
+	<string name="inform_small_image">No és compatible amb aquesta imatge</string>
+	<string name="all">Tots</string>
+	<string name="collage">Collage</string>
+	<string name="non_pick_imgae">No heu seleccionat prou imatge!</string>
+</resources>

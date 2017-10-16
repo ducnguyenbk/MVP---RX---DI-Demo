@@ -1,0 +1,12 @@
+<resources>
+    <string name="admob_banner_ad">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_name">lib_gallery</string>
+    <string name="next">Next</string>
+    <string name="ok">OK</string>
+    <string name="inform_small_image">Don\'t support for this image</string>
+    <string name="all">All</string>
+    <string name="collage">Collage</string>
+    <string name="navigation_drawer_open">Drawer open</string>
+    <string name="navigation_drawer_close">Drawer closed</string>
+    <string name="non_pick_imgae">You did not selected enough image !</string>
+</resources>

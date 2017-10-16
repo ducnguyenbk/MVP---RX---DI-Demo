@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">შემდეგი</string>
+	<string name="inform_small_image">ამ სურათის მხარდაჭერა არ არის</string>
+	<string name="all">ყველა</string>
+	<string name="collage">კოლაჟი</string>
+	<string name="non_pick_imgae">საკმარისი სურათი არ შეარჩია</string>
+</resources>

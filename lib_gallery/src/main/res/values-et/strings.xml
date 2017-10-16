@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Järgmine</string>
+	<string name="inform_small_image">Ära seda pilti toetada</string>
+	<string name="all">Kõik</string>
+	<string name="collage">Kollaaž</string>
+	<string name="non_pick_imgae">Te ei valinud piisavalt pilti!</string>
+</resources>

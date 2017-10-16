@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Ďalšie</string>
+	<string name="inform_small_image">Nepodporuje tento obrázok</string>
+	<string name="all">Všetko</string>
+	<string name="collage">koláž</string>
+	<string name="non_pick_imgae">Nevybrali ste dosť obrázok!</string>
+</resources>

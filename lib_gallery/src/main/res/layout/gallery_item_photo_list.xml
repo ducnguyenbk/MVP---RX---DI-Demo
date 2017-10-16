@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:foreground="?attr/selectableItemBackground"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/img_picked"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/xxx_small"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_no_image" />
+</FrameLayout>

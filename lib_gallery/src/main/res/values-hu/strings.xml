@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Következő</string>
+	<string name="inform_small_image">Ne támogassa ezt a képet</string>
+	<string name="all">Minden</string>
+	<string name="collage">Kollázs</string>
+	<string name="non_pick_imgae">Nem választott ki elég képet!</string>
+</resources>

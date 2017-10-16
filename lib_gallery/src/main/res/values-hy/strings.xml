@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Հաջորդը</string>
+	<string name="inform_small_image">Մի աջակցեք այս պատկերին</string>
+	<string name="all">Բոլորը</string>
+	<string name="collage">Համալսարան</string>
+	<string name="non_pick_imgae">Դուք չեք ընտրել բավարար պատկեր:</string>
+</resources>

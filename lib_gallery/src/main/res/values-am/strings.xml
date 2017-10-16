@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">ቀጣይ</string>
+	<string name="inform_small_image">ለዚህ ምስል አይደግፉ</string>
+	<string name="all">ሁሉም</string>
+	<string name="collage">ኮላጅ</string>
+	<string name="non_pick_imgae">በቂ ምስል አልመረጡም!</string>
+</resources>

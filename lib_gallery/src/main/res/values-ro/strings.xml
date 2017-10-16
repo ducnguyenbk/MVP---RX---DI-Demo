@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Următor →</string>
+	<string name="inform_small_image">Nu acceptă această imagine</string>
+	<string name="all">Toate</string>
+	<string name="collage">colaj</string>
+	<string name="non_pick_imgae">Nu ați selectat suficientă imagine!</string>
+</resources>

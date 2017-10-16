@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">다음 것</string>
+	<string name="inform_small_image">이 이미지를 지원하지 마십시오.</string>
+	<string name="all">모든</string>
+	<string name="collage">콜라주</string>
+	<string name="non_pick_imgae">당신은 충분한 이미지를 선택하지 않았습니다!</string>
+</resources>

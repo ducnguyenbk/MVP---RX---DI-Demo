@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">下一个</string>
+	<string name="inform_small_image">不支持此图像</string>
+	<string name="all">所有</string>
+	<string name="collage">大学</string>
+	<string name="non_pick_imgae">你没有选择足够的图像！</string>
+</resources>

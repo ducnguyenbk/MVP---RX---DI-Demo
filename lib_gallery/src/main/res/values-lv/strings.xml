@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Nākamais</string>
+	<string name="inform_small_image">Neatbalsta šo attēlu</string>
+	<string name="all">Viss</string>
+	<string name="collage">Kolāža</string>
+	<string name="non_pick_imgae">Jūs neesat izvēlējies pietiekami daudz attēlu!</string>
+</resources>

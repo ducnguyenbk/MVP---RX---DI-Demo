@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fl_bg_preview"
+    android:layout_width="@dimen/icon_size_xstand"
+    android:layout_height="@dimen/icon_size_xstand">
+    <ImageView
+        android:id="@+id/img_picked"
+        android:layout_width="@dimen/icon_size_xstand"
+        android:layout_height="@dimen/icon_size_xstand"
+        android:scaleType="centerCrop" />
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/clear_btn"
+        android:layout_width="@dimen/small_x"
+        android:layout_height="@dimen/small_x"
+        android:layout_gravity="right|top"
+        android:background="@drawable/roundedview"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/ic_x" />
+</FrameLayout>

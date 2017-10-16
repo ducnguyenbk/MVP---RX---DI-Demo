@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">بعد</string>
+	<string name="inform_small_image">برای این تصویر پشتیبانی نمی شود</string>
+	<string name="all">همه</string>
+	<string name="collage">کلاژ</string>
+	<string name="non_pick_imgae">شما تصویر کافی را انتخاب نکردید</string>
+</resources>

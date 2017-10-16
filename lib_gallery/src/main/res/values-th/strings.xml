@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">ต่อไป</string>
+	<string name="inform_small_image">ไม่สนับสนุนภาพนี้</string>
+	<string name="all">ทั้งหมด</string>
+	<string name="collage">การจับแพะชนแกะ</string>
+	<string name="non_pick_imgae">คุณไม่ได้เลือกภาพที่เพียงพอ!</string>
+</resources>

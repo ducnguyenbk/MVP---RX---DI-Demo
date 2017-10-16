@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Næst</string>
+	<string name="inform_small_image">Ekki styðja þessa mynd</string>
+	<string name="all">Allt</string>
+	<string name="collage">Collage</string>
+	<string name="non_pick_imgae">Þú valdir ekki nóg mynd!</string>
+</resources>

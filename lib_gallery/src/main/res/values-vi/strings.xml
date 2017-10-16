@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Kế tiếp</string>
+	<string name="inform_small_image">Không hỗ trợ cho hình ảnh này</string>
+	<string name="all">Tất cả các</string>
+	<string name="collage">Cắt dán</string>
+	<string name="non_pick_imgae">Bạn đã không chọn đủ hình ảnh!</string>
+</resources>

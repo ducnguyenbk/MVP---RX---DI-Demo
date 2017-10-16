@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">次</string>
+	<string name="inform_small_image">この画像はサポートしていません</string>
+	<string name="all">すべて</string>
+	<string name="collage">コラージュ</string>
+	<string name="non_pick_imgae">あなたは十分なイメージを選択していない！</string>
+</resources>

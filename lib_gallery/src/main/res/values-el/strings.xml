@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">επόμενος</string>
+	<string name="inform_small_image">Μην υποστηρίζετε αυτήν την εικόνα</string>
+	<string name="all">Ολα</string>
+	<string name="collage">Κολάζ</string>
+	<string name="non_pick_imgae">Δεν επιλέξατε αρκετή εικόνα!</string>
+</resources>

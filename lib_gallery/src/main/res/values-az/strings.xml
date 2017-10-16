@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">İrəli</string>
+	<string name="inform_small_image">Bu görüntüyü dəstəkləməyin</string>
+	<string name="all">Bütün</string>
+	<string name="collage">Kolaj</string>
+	<string name="non_pick_imgae">Siz kifayət qədər şəkil seçmədiniz!</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Naslednji</string>
+	<string name="inform_small_image">Ne podpirajte te slike</string>
+	<string name="all">Vse</string>
+	<string name="collage">Kolaž</string>
+	<string name="non_pick_imgae">Niste izbrali dovolj slike!</string>
+</resources>

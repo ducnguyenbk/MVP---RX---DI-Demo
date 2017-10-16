@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Далі</string>
+	<string name="inform_small_image">Не підтримуйте цей образ</string>
+	<string name="all">Все</string>
+	<string name="collage">Колаж</string>
+	<string name="non_pick_imgae">Ви не вибрали достатньо зображення!</string>
+</resources>

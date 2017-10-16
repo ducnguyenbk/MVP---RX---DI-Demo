@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_mvp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="10dp"
+        android:background="#696868"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="MVP DEMO"
+        android:textColor="#000000" />
+
+
+    <TextView
+        android:id="@+id/tv_rx"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_mvp"
+        android:layout_centerInParent="true"
+        android:layout_margin="10dp"
+        android:background="#696868"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="RXANDROID"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/tv_dagger"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_rx"
+        android:layout_centerInParent="true"
+        android:layout_margin="10dp"
+        android:background="#696868"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="DI - DAGGER"
+        android:textColor="#000000" />
+
+
+</RelativeLayout>

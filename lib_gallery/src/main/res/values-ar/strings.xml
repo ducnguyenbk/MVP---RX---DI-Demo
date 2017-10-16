@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">التالى</string>
+	<string name="inform_small_image">لا تدعم هذه الصورة</string>
+	<string name="all">الكل</string>
+	<string name="collage">كلية</string>
+	<string name="non_pick_imgae">لم تحدد صورة كافية!</string>
+</resources>

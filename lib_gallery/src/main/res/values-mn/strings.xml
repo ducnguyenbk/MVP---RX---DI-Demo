@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Дараачийн</string>
+	<string name="inform_small_image">Энэ зургийг дэмжихгүй байна</string>
+	<string name="all">Бүгд</string>
+	<string name="collage">Collage</string>
+	<string name="non_pick_imgae">Та хангалттай дүрс сонгоогүй!</string>
+</resources>

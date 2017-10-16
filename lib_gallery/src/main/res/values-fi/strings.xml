@@ -1,0 +1,7 @@
+<resources>
+	<string name="next">Seuraava</string>
+	<string name="inform_small_image">Älä tue tätä kuvaa</string>
+	<string name="all">Kaikki</string>
+	<string name="collage">Kollaasi</string>
+	<string name="non_pick_imgae">Et ole valinnut tarpeeksi kuvaa!</string>
+</resources>
